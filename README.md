@@ -19,7 +19,7 @@ Swiss-based Software Developer & Cyber Security Engineer 🇨🇭
 
 <br>
 
-🛠️ Languages & Tools
+<h2>🛠️ Languages & Tools</h2>
 <div align="center">
 
 Languages
